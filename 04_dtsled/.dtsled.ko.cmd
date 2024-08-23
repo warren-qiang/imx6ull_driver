@@ -1,0 +1,1 @@
+cmd_/home/warren/linux/linux_drivers/04_dtsled/dtsled.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/warren/linux/linux_drivers/04_dtsled/dtsled.ko /home/warren/linux/linux_drivers/04_dtsled/dtsled.o /home/warren/linux/linux_drivers/04_dtsled/dtsled.mod.o
